@@ -11,5 +11,5 @@ The planned games are:
 My main website:
 https://nathantibbitts.github.io
 
-![imgs/fitzie.jpg]
-![imgs/fitzie.jpg]
+!(imgs/fitzie.jpg)
+!(imgs/fitzie.jpg)
