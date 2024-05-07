@@ -12,4 +12,4 @@ My main website:
 https://nathantibbitts.github.io
 
 ![Fitzwilliam](imgs/fitzie.jpg)
-![Knightley](imgs/fitzie.jpg)
+![Knightley](imgs/knightley.jpg)
