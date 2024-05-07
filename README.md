@@ -8,3 +8,8 @@ The planned games are:
 1. UNO (Still need to implement the proper changes)
 2. A guessing game
 3. A text adventure game
+My main website:
+https://nathantibbitts.github.io
+
+![imgs/knightley.jpg]
+![imgs/fitzie.jpg]
